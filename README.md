@@ -1,8 +1,12 @@
 # 💫 About Me:
-🔭 I’Hi, my name is Mohammad Ashraful Alam. I am a fresher web developer. I am a front-end specialist. I'm learning web development from Programming Hero. I specialize in HTML, CSS, Bootstrap, Tailwind CSS, Javascript, ES6, React, React-Router, Node JS, MongoDB, and Firebase. I am finishing the project with HTML, CSS, Tailwind CSS, JavaScript, React, and React Router.m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’Hi, my name is Mohammad Ashraful Alam. I am a fresher web developer. I am a front-end specialist. I'm learning web development from Programming Hero. I specialize in HTML, CSS, Bootstrap, Tailwind CSS, Javascript, ES6, React, React-Router, Node JS, MongoDB, and Firebase. I am finishing the project with HTML, CSS, Tailwind CSS, JavaScript, React, and React Router.m <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
+<a href='https://www.facebook.com/profile.php?id=100041497192747'>
+  facebook
+  <img src='https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white' />
+ </a>
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ashraful Alam) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Ashraful Alam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ashraful Alam) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Ashraful Alam) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Ashraful Alam) 
 
 # 💻 Tech Stack:
