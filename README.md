@@ -3,7 +3,7 @@ Hi, my name is Mohammad Ashraful Alam. I am a fresher web developer. I am a fron
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)] (https://www.facebook.com/profile.php?id=100041497192747) 
+[![Facebook]](https://www.facebook.com/profile.php?id=100041497192747) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Ashraful Alam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ashraful Alam) 
 
 # 💻 Tech Stack:
