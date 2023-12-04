@@ -1,5 +1,5 @@
 ## 💫 About Me:
-Hi, my name is Mohammad Ashraful Alam. I am a fresher web developer. I am a front-end specialist. I'm learning web development from Programming Hero. I specialize in HTML, CSS, Bootstrap, Tailwind CSS, Javascript, ES6, React, React-Router, Node JS, MongoDB, and Firebase. I am finishing the project with HTML, CSS, Tailwind CSS, JavaScript, React, and React Router.
+Hi, I am Ashraful Alam, a dedicated web developer. I possess strong proficiency in HTML, CSS, Tailwind CSS, JavaScript, ES6, React js, React Router and Firebase Authentication. I know the basics of Node JS, Express JS, and MongoDB and I also used this technology to make a full-stack website. I am dedicated to creating user-friendly websites. I embrace simplicity in design, prioritizing user experience above all else. Moreover, I ensure that every project I undertake delivers a lasting impact.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100041497192747) 
